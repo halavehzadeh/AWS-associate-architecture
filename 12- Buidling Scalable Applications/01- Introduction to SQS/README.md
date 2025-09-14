@@ -52,3 +52,5 @@ Components of system architecture that can process the information without being
 directly connected.
 
 ![My Image](images/image7.png)
+
+## cha
