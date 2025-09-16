@@ -6,7 +6,10 @@ knowledge portal
 Amazon SQS supports dead-letter queues, which other queues (source queues) can target for
 messages that can't be processed (consumed) successfully.
 
-![My Image](images/image1.png)   ![My Image](images/image2.png)
+<p align="center">
+  <img src="images/image1.png" alt="Image 1" width="45%" />
+  <img src="images/image2.png" alt="Image 2" width="45%" />
+</p>
 
 ## Moving to Dead-Letter Queue
 knowledge portal
