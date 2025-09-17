@@ -2,7 +2,7 @@ SNS stands for simple notification service.
 SNS is a fully managed messaging and mobile notification service for delivering messages
 to the subscribed endpoints.
 
-![My Image](images/image1.png)
+![My Image](image/image1.png)
 
 ## Use-Cases for SNS
 
