@@ -1,7 +1,7 @@
 
 # Intro to Amazon SQS
 
-##Use-Case: Restoring Image Application
+## Use-Case: Restoring Image Application
 knowledge portal
 Medium Corp is designing an application that will enhance and restore the images that
 users submit through the online portal.
@@ -53,4 +53,4 @@ directly connected.
 
 ![My Image](images/image7.png)
 
-## cha
+
