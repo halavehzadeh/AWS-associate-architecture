@@ -11,7 +11,9 @@ provides lots of benefits, some of these include:
 - Regular monitoring of activities.
 - Insurance Benefits.
 
-![My Images](images/image1.png)
+<div align="center">
+<img src="images/image1.png" alt="IAM Policies" width="600">
+</div>
 
 ## Recording at AWS Level
 
@@ -20,10 +22,14 @@ Infrastructure as well as the servers.
 Example Auditor Question :-
 Show me what did Anne did on 3rd of January 2017 between 10 AM to 2 PM.
 
-![My Images](images/image2.png)
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="600">
+</div>
 
 ## Tools for Recording
 
 Depending on the type of resource you use, the tools for recording might also change.
 
-![My Images](images/image3.png)
+<div align="center">
+<img src="images/image3.png" alt="IAM Policies" width="600">
+</div>
