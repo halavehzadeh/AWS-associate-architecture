@@ -1,6 +1,6 @@
 # Amazon OpenSearch
 <div align="center">
-<img src="images/image1.png" alt="IAM Policies" width="100%">
+<img src="images/image1.png" alt="IAM Policies">
 </div>
 
 Amazon OpenSearch is initially based on the forked version of ElasticSearch
