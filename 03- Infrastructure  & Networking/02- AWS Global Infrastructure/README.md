@@ -4,6 +4,7 @@ What if data center goes down ?
 
 <div align="center">
 <img src="images/image1.png" alt="IAM Policies" width="600">
+</dive>
 
 
 <div align="center">
