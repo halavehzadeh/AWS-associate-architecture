@@ -23,7 +23,7 @@ ii) Client Side Encryption
      you manage the encryption process, the encryption keys, and related tools.
 
 ## Server Side Encryption
-knowledge portal
+
 Within Server-Side encryption, there are three options that can be used depending on the
 use-case.
 - Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
@@ -33,10 +33,10 @@ Management Service (SSE-KMS)
 
 ## SSE with Amazon S3-Managed Keys (SSE-S3)
 
-knowledge portal
 i) Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
-● In this approach, each object is encrypted with a unique key.
-● Uses one of the strongest block ciphers to encrypt the data, AES 256.
+
+- In this approach, each object is encrypted with a unique key.
+- Uses one of the strongest block ciphers to encrypt the data, AES 256.
 
 <div align="center">
 <img src="images/image3.png" alt="IAM Policies" width="600">
