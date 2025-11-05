@@ -43,8 +43,9 @@ i) Server-Side Encryption with Amazon S3-Managed Keys (SSE-S3)
 </div>
 
 ## SSE with CMK (SSE-KMS)
-knowledge portal
+
 ii) Server-Side Encryption with CMKs Stored in AWS Key Management Service (SSE-KMS)
+
 Encrypting data with own CMK allows customers to create, rotate, disable customer
 managed CMK’s. We can also define access controls and enable auditing.
 
