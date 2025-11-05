@@ -15,11 +15,12 @@
 AWS S3 offers multiple approaches to encrypt the data being stored in S3.
 
 i) Server Side Encryption
-- Request Amazon S3 to encrypt your object before saving it on disks in its data
-centers and then decrypt it when you download the objects.
+   - Request Amazon S3 to encrypt your object before saving it on disks in its data
+     centers and then decrypt it when you download the objects.
+
 ii) Client Side Encryption
-- Encrypt data client-side and upload the encrypted data to Amazon S3. In this case,
-you manage the encryption process, the encryption keys, and related tools.
+   - Encrypt data client-side and upload the encrypted data to Amazon S3. In this case,
+     you manage the encryption process, the encryption keys, and related tools.
 
 ## Server Side Encryption
 knowledge portal
