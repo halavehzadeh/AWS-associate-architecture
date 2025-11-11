@@ -22,12 +22,12 @@ AWS Client VPN is a fully-managed remote access VPN solution used by your
 remote workforce to securely access resources within both AWS and your
 on-premises network
 
+<div align="center">
+<img src="images/image2.png" alt="IAM Policies" width="25%">
+</div>
+
 ## Benefits of AWS Client VPN
 
 AWS Client VPN is a pay-as-you-go cloud VPN service
 Fully elastic, it automatically scales up, or down, based on demand
 AWS Client VPN, including the software client, supports the OpenVPN protocol.
-
-<div align="center">
-<img src="images/image2.png" alt="IAM Policies" width="25%">
-</div>
